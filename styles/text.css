@@ -1,0 +1,22 @@
+body{ font-family:Tahoma, Geneva, sans-serif; font-size:11px; line-height:20px;}a:focus{outline:1px dotted}hr{border:0 #ccc solid;border-top-width:1px;clear:both;height:0}
+
+
+ol{list-style:decimal}ul{list-style:none;}
+li{margin-left:30px}
+p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset{margin-bottom:0px}
+
+.blue{color: #09C;}
+.green{color:#360}
+.dblue{color: #069}
+.large{font-size:16px; line-height:25px; color:#F03;}
+.large2{font-size:16px; line-height:25px; color: #069;}
+.small{font-family:Georgia, "Times New Roman", Times, serif; font-size:12px; color: #099;}
+
+.times{color:#CCC;}
+.times a{
+	color:#CCC;
+	text-decoration:none;
+	}
+.times a:hover{
+	color:#900;
+}
